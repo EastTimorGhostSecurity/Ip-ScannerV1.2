@@ -14,31 +14,39 @@
 
 🐧 Linux & 🍏 macOS
 1. Ensure Python 3 is installed:
-    python3 --version
 
-2. Install required dependencies:
-    pip3 install requests tabulate
+      python3 --version
 
-3. Run the script:
-    python3 Ip-ScannerV1.2.py
+3. Install required dependencies:
+
+      pip3 install requests tabulate
+
+5. Run the script:
+
+      python3 Ip-ScannerV1.2.py
 
 🪟 Windows
 1. Verify Python 3 installation. If missing, download it from [python.org](https://www.python.org/downloads/).  
 2. Install dependencies using Command Prompt:
-    pip install requests tabulate
 
-3. Execute the script:
-    python Ip-ScannerV1.2.py
+      pip install requests tabulate
+
+4. Execute the script:
+
+      python Ip-ScannerV1.2.py
 
 📱 Termux (Android)
 1. Install Python in Termux:
-    pkg install python -y
 
-2. Install dependencies:
-    pip install requests tabulate
+      pkg install python -y
 
-3. Run the script:
-    python3 Ip-ScannerV1.2.py
+3. Install dependencies:
+
+      pip install requests tabulate
+
+5. Run the script:
+
+      python3 Ip-ScannerV1.2.py
 
 🎯 Usage Instructions
 1. Execute the script using the appropriate command for your operating system.
@@ -56,7 +64,8 @@
   ✅ This tool is intended for educational and ethical purposes only. Misuse of this tool is strictly discouraged.
 
 👤Author & Version
-👾 **Developer:** EAST TIMOR GHOST SECURITY
-📌 **Current Version:** 1.2
+
+  👾 **Developer:** EAST TIMOR GHOST SECURITY
+  📌 **Current Version:** 1.2
 
 
